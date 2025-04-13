@@ -14,7 +14,7 @@ printf "\e[1;32m\t+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[0m\n"
 printf "\e[1;37m\t|T|o|o|l|s|-|I|n|s|t|a|l|l|e|r|\e[0m\n"
 printf "\e[1;32m\t+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[0m\n"
 printf "\n"
-printf "\e[1;40m\tCreated by:\e[0m\e[1;42mAnonyminHack5\e[0m\n"
+printf "\e[1;40m\tCreated by:\e[0m\e[1;42mverycrazybob\e[0m\n"
 printf "\n"
 
 printf "\e[1;93m==========[\e[0m\e[1;95mAll Tools Installer]\e[0m\e[1;93m==========\e[0m\n"
@@ -24,9 +24,9 @@ sleep 1
 ###################################################
 trap ctrl_c INT
 ctrl_c() {
-echo "Author : AnonyminHack5" | lolcat
-echo "WhatsApp : +2349033677589" | lolcat
-figlet -f slant "AnonyminHack5" | lolcat
+echo "Author : verycrazybobjones" | lolcat
+echo "phone: +33683820951" | lolcat
+figlet -f slant "verycrazybobjones" | lolcat
 sleep 1
 exit
 }
